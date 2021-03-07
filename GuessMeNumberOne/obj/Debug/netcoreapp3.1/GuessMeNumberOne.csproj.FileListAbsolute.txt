@@ -1,0 +1,13 @@
+C:\git\HaydenLearning\GuessMeNumberOne\bin\Debug\netcoreapp3.1\GuessMeNumberOne.exe
+C:\git\HaydenLearning\GuessMeNumberOne\bin\Debug\netcoreapp3.1\GuessMeNumberOne.deps.json
+C:\git\HaydenLearning\GuessMeNumberOne\bin\Debug\netcoreapp3.1\GuessMeNumberOne.runtimeconfig.json
+C:\git\HaydenLearning\GuessMeNumberOne\bin\Debug\netcoreapp3.1\GuessMeNumberOne.runtimeconfig.dev.json
+C:\git\HaydenLearning\GuessMeNumberOne\bin\Debug\netcoreapp3.1\GuessMeNumberOne.dll
+C:\git\HaydenLearning\GuessMeNumberOne\bin\Debug\netcoreapp3.1\GuessMeNumberOne.pdb
+C:\git\HaydenLearning\GuessMeNumberOne\obj\Debug\netcoreapp3.1\GuessMeNumberOne.csprojAssemblyReference.cache
+C:\git\HaydenLearning\GuessMeNumberOne\obj\Debug\netcoreapp3.1\GuessMeNumberOne.AssemblyInfoInputs.cache
+C:\git\HaydenLearning\GuessMeNumberOne\obj\Debug\netcoreapp3.1\GuessMeNumberOne.AssemblyInfo.cs
+C:\git\HaydenLearning\GuessMeNumberOne\obj\Debug\netcoreapp3.1\GuessMeNumberOne.csproj.CoreCompileInputs.cache
+C:\git\HaydenLearning\GuessMeNumberOne\obj\Debug\netcoreapp3.1\GuessMeNumberOne.dll
+C:\git\HaydenLearning\GuessMeNumberOne\obj\Debug\netcoreapp3.1\GuessMeNumberOne.pdb
+C:\git\HaydenLearning\GuessMeNumberOne\obj\Debug\netcoreapp3.1\GuessMeNumberOne.genruntimeconfig.cache
