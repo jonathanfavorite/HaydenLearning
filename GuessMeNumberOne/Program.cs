@@ -6,7 +6,7 @@ namespace GuessMeNumberOne
 
     // Lists of PRO-TIPS
     //  - Double click on any text to see where else it is used in this file (it will highlight them)
-    //  - Console.WriteLine() can either show text on the screen (in the console) or if empty, create a new line
+    //  - Console.WriteLine() can either show text on the screen (in the console) or if empty, create a new line (in the console)
     //  - Hold control + mousewheel to increase/decrease the font size
 
     class Person  // A class is like an 'object', it contains details about whatever you want to put inside
@@ -19,10 +19,11 @@ namespace GuessMeNumberOne
         public bool CanByAlcohol = false; // bool means it can be true or false
                                           // We are making it false by default
         // you can add as many different details as your heart desires here!
+        // 'public' means it can be seen in other parts of the code, not important now just keep that in mind.
     }       
     class Program
     {
-        static List<Person> myFamily = new List<Person>(); // Remember this (keyword: List<Person>), it's literally a List of Person objects (people)
+        static List<Person> myFamily = new List<Person>(); // Remember this (keyword: List<Person>), it's literally a List of Person objects (people) that we are calling myFamily
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Hayden.");
